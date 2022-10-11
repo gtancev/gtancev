@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gtancev.
-- 👀 I’m interested in mathematical modeling, numerical simulation, and optimization (i.e., data science).
-- 🌱 I’m currently learning probabilistic artificial intelligence (gaussian processes, variational inference, reinforcement learning).
-- 💞️ I’m looking to collaborate on ML/AI applied to chemical systems.
+- 👋 Hi, I’m @gtancev, a research/data scientist and engineer.
+- 👀 I’m interested in mathematical modeling, numerical simulation, and optimization.
+- 🌱 I’m currently learning how to deal with uncertainty in machine learning.
+- 💞️ I’m looking to collaborate on artificial intelliegence applied to chemical systems.
 - 📫 Contact me on LinkedIn!
 
 <!---
