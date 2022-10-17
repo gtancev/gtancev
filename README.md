@@ -1,5 +1,5 @@
 I am a scientist and engineer 
-- specialized in mathematical modeling, numerical simulation, and optimization (i.e., data science); 
+- specialized in mathematical modeling, numerical simulation, and optimization; 
 - with a background in life sciences; 
 - and further education in computer science with a major in machine intelligence. 
 
