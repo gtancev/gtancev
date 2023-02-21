@@ -3,7 +3,7 @@ I am a scientist and engineer
 - with a background in life sciences; 
 - and further education in computer science with a major in machine intelligence. 
 
-In the last few years, I have
+In the meantime, I have
 - assisted pharmaceutical companies improve manufacturing processes via models and simulations; 
 - supported physicians predict pediatric mortality by machine learning applied to clinical data; 
 - enabled environmental authorities perform reliable air quality monitoring with low-cost sensors through the data-driven development of new protocols.
