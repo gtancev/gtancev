@@ -9,11 +9,9 @@ Thus far, I have
 
 I am distinguished by my
 
-  • analytical mindset, problem-solving skills, and can-do attitude;
-
-  • curiosity as well as interest in innovation and continuous improvement; 
-
-  • strong interpersonal skills and high emotional intelligence.
+  - analytical mindset, problem-solving skills, and can-do attitude;
+  - curiosity as well as interest in innovation and continuous improvement; 
+  - strong interpersonal skills and high emotional intelligence.
 
 <!---
 gtancev/gtancev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
