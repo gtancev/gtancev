@@ -3,9 +3,9 @@ I am a passionate scientist/engineer with degrees in chemical and bioengineering
 
 Thus far, I have
 
-  • assisted pharmaceutical companies improve manufacturing processes through numerical simulations;
-  • supported physicians predict mortality by machine learning applied to clinical data; 
-  • enabled authorities perform trustworthy measurements through the automation and data-driven design of maintenance operations.
+  - assisted pharmaceutical companies improve manufacturing processes through numerical simulations;
+  - supported physicians predict mortality by machine learning applied to clinical data; 
+  - enabled authorities perform trustworthy measurements through the automation and data-driven design of maintenance operations.
 
 I am distinguished by my
 
