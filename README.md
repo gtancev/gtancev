@@ -1,13 +1,18 @@
 I am a passionate scientist/engineer with degrees in chemical and bioengineering, electrical engineering, and computer science focusing on the design, development, and optimization of products as well as processes. My specialty includes mathematical modeling, numerical simulation, and data analysis and I have great interest in digitalization and innovation.
 
+
 Thus far, I have
+
   • assisted pharmaceutical companies improve manufacturing processes through numerical simulations;
   • supported physicians predict mortality by machine learning applied to clinical data; 
   • enabled authorities perform trustworthy measurements through the automation and data-driven design of maintenance operations.
 
-I am distinguished by my 
+I am distinguished by my
+
   • analytical mindset, problem-solving skills, and can-do attitude;
+
   • curiosity as well as interest in innovation and continuous improvement; 
+
   • strong interpersonal skills and high emotional intelligence.
 
 <!---
