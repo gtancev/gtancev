@@ -1,4 +1,4 @@
-I am a passionate scientist/engineer with degrees in chemical and bioengineering, electrical engineering, and computer science focusing on the design, development, and optimization of products as well as processes. My specialty includes mathematical modeling, numerical simulation, and data analysis and I have great interest in digitalization and innovation.
+I am a passionate and versatile scientist/engineer with degrees in chemical and bioengineering as well as computer science, focusing on the design, development, and optimization of products as well as processes. My specialty includes mathematical modeling, numerical simulation, and data analysis and I have great interest in digitalization and innovation.
 
 
 Thus far, I have
