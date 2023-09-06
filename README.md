@@ -1,4 +1,6 @@
-I am a scientist with degrees in engineering and computer science - with a passion for optimizing existing products and processes through digitalization or designing new ones by innovation.
+Hello, I am Georgi.
+
+I am a scientist and engineer with a passion for optimizing existing products and processes or designing new ones.
 
 <!---
 gtancev/gtancev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
